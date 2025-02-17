@@ -31,14 +31,14 @@ class vehiculo{
     }
     
     class Motocicleta extends vehiculo{
-        String hacerCaballitos;
+        String cilindraje;
         public void hacerCaballitos(){
         
     }
     }
     
     class Camion extends vehiculo{
-        String cargarMercancia;
+        String capacidadCarga;
         public void cargarMercancia(){
             
         }
